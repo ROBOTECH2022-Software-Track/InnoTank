@@ -70,7 +70,12 @@
 
 ## About The Project
 
-This project have no name.
+**INNOTANK**
+
+Mission Statement: We move to incremementally improve the sustainability of our environment by integrating advanced technology into necessary parts of our lifestyles.
+
+The _Innotank_ is an innovated, self-learning trash can designed to reduce the amount of waste in recycled materials. The trash can will implement advanced features of design and machine learning in order to process each article of recyclable material. Recyclable materials are often conjoined with various non-recyclable materials (such as a plastic water bottle with a paper label around it). As a result, these resources are often accidentally recycled simply by users placing them in normal recycling cans. Our creation seeks to remove that issue, and this GitHub contains the source code that designs how the InnoTank machine learns.
+
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
