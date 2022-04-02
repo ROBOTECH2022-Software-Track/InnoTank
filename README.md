@@ -70,7 +70,9 @@
 
 ## About The Project
 
-This project have no name.
+                THE INNOTANK
+
+~ Incrementally Creating a Sustainable Environment ~
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
@@ -82,7 +84,7 @@ This project have no name.
 
 - [Tweepy](https://www.tweepy.org/)
 - [Python](https://www.python.org/)
-- [OpenCV](https://opencv.org/)
+- [Pixela](https://pixe.la/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
