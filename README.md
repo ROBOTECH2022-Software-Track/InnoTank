@@ -70,7 +70,7 @@
 
 ## About The Project
 
-This project have no name.
+INNOTANK
 
 [![Product Name Screen Shot][product-screenshot]](img/screenshot.png)
 
